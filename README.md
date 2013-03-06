@@ -1,4 +1,8 @@
-poetry
-======
+# SIGCSE 2013 Demo Repo
 
-A repo containing some poetry
+Contains poetry, because why not?
+
+* Shakespeare
+* Poe
+* Shelley
+* Service (community contrib)
